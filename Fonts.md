@@ -1,5 +1,3 @@
-ttf-babelstone-latin contains the following fonts
-
 # BabelStone Roman:
 
 It is a Unicode serif font covering the Latin script.
